@@ -9,6 +9,12 @@
   letter-spacing: 1px;
 }
 
+.summary{
+  display: flex;
+  padding: 20px 100px;
+  letter-spacing: 1px;
+}
+
 .contents {
   padding: 20px 100px;
   letter-spacing: 1px;
