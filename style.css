@@ -12,7 +12,6 @@
 .summary{
   display: flex;
   margin: 20px 200px;
-
   letter-spacing: 1px;
 }
 
@@ -23,17 +22,13 @@
 .summary p{
   width: calc(100vh-240px);
   margin-left: 50px;
-
   font-size:15px;
 }
 
 .contents {
   margin: 20px 200px;
   letter-spacing: 1px;
-}
-
-.contents p {
-  font-size:15px;
+  font-size:15px
 }
 
 .contents h2 {
@@ -44,7 +39,7 @@
 
 .contents h3 {
   font-size:15px;
-  text-decoration: underline;k  
+  text-decoration: underline;k
 }
 
 .underlinepart{
