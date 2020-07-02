@@ -1,8 +1,8 @@
 .header {
   height: 50px;
   background-color: #87ceeb;
-  padding-left: 200px;
-  font-size: 20px;
+  padding-left: : 200px;
+  font-size: 200px;
   font-weight:700;
   line-height: 50px;
   letter-spacing: 1px;
@@ -10,36 +10,34 @@
 
 .summary{
   display: flex;
-  margin: 20px 200px
+  margin: 20px 200px;
   letter-spacing: 1px;
 }
 
 .summary img{
   width: 240px;
   height: 160px;
-  border-radius: 5px;
 }
 
 .summary p{
-  width: 100vh-240ox;
+  width: calc(100vh-240px);
   height: 160px;
-  border-radius: 5px;
-  font-size:20px;
+  font-size:15px;
 }
 
 .contents {
-  padding: 20px 200px;
+  margin: 20px 200px;
   letter-spacing: 1px;
 }
 
 .contents p {
-  font-size:20px;
+  font-size:15px;
   letter-spacing: 1px;
 }
 
 .contents h1 {
   border-top: 20px
-  font-size:30px;
+  font-size:20px;
   font-weight:700;
 }
 
