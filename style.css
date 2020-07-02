@@ -27,8 +27,6 @@
 
 .contents {
   margin: 20px 200px;
-  letter-spacing: 1px;
-  font-size:15px
 }
 
 .contents h2 {
@@ -37,7 +35,7 @@
   font-weight:700;
 }
 
-.contents h3 {
+.contents activity {
   text-decoration: underline;
 }
 
