@@ -1,6 +1,11 @@
 .header {
   height: 50px;
   background-color: #87ceeb;
+  padding-left: 20px;
+
+  font-size:20px;
+  line-height: 50px;
+  letter-spacing: 1px
 }
 
 .contents {
