@@ -2,3 +2,12 @@
   height: 50px;
   background-color: #0072BB;
 }
+
+.contents {
+  height: calc(100ch - 100px);
+}
+
+.footer {
+  height: 50px;
+  background-color: #87ceeb;
+}
