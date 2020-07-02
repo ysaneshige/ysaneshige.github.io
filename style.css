@@ -43,6 +43,10 @@
   font-weight:700;
 }
 
+.contents p Activity{
+  text-decoration: underline;
+}
+
 .footer {
   height: 50px;
   background-color: #87ceeb;
