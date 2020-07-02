@@ -37,8 +37,8 @@
   font-weight:700;
 }
 
-.contents activity {
-  margin: 10px;
+.contents underlinepart {
+  margin-top: 10px;
   text-decoration: underline;
 }
 
