@@ -34,13 +34,17 @@
 
 .contents p {
   font-size:15px;
-  letter-spacing: 1px;
 }
 
-.contents h1 {
+.contents h2 {
   margin-top: 20px;
   font-size:20px;
   font-weight:700;
+}
+
+.contents h3 {
+  font-size:15px;
+  text-decoration: underline;  
 }
 
 .underlinepart{
