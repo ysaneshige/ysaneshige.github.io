@@ -10,6 +10,7 @@
 }
 
 .summary{
+  display:flex;
   padding: 20px 100px;
   letter-spacing: 1px;
 }
