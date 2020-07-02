@@ -1,7 +1,7 @@
 .header {
   height: 50px;
   background-color: #87ceeb;
-  padding-left: 20px;
+  margin-left: 200px;
 　
   font-size: 200px;
   font-weight:700;
@@ -11,8 +11,8 @@
 
 .summary{
   display: flex;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
   margin-top: 20px;
   margin-bottom: 20px;
   letter-spacing: 1px;
@@ -30,6 +30,7 @@
   height: 160px;
   border-radius: 5px;
   margin: 10px;
+  margin-left: 50px
 }
 
 .contents {
@@ -38,12 +39,12 @@
 }
 
 .contents p {
-  font-size:20px;
+  font-size:10px;
   letter-spacing: 1px;
 }
 
 .contents h1 {
-  font-size:200px;
+  font-size:20px;
   font-weight:700;
 }
 
