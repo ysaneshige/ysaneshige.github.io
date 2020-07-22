@@ -13,6 +13,7 @@
   display: flex;
   margin: 20px 200px;
   letter-spacing: 1px;
+  font-size:15px;
 }
 
 .summary img{
@@ -22,7 +23,6 @@
 .summary p{
   width: calc(100vh-240px);
   margin-left: 50px;
-  font-size:15px;
 }
 
 .contents {
@@ -49,4 +49,27 @@
 .footer {
   height: 50px;
   background-color: #87ceeb;
+}
+
+@media screen and (max-width: 1000px) {
+  .header {
+    padding-left: 40px;
+    font-size: 40px;
+  }
+  .summary{
+    display: block;
+    margin: 40px;
+    font-size: 34px;
+  }
+  .summary img{
+    width:480px;
+    height: auto;
+  }
+  .contents {
+    margin: 40px;
+    font-size: 34px;
+  }
+  .contents h2 {
+    font-size: 45px;
+  }
 }
